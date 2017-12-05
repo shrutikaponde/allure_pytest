@@ -1,0 +1,5 @@
+{
+  "test_raises/test_1.py": true,
+  "test_skipif/test_1.py": true,
+  "test_xfail/test_1.py": true
+}
